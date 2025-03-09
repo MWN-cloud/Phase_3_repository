@@ -36,6 +36,10 @@ The following models were performed;
 5. Support Vector Machine
 6. K Nearest Neighbour
 
+## Results of the best Model performance
+![image](https://github.com/user-attachments/assets/08b89242-d96d-4b01-ad70-5ce587cef202)
+
+
 ## Conclusion and Recommendation
 The best performing model was the tuned Random forest model with 75 % recall on class 1 which is the functonal needs repair.
 
